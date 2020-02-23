@@ -18,6 +18,3 @@ git clone https://github.com/rapid7/metasploit-framework.git
 cd metasploit-framework
 apt install gem
 gem install bundler
-
-# nslookupとかdns関連
-apt install 
